@@ -1,0 +1,94 @@
+{
+  "aquatic_sports_estonia": [
+    {
+      "id": 1,
+      "sport": "Swimming",
+      "estonian": "Ujumine",
+      "image_url": "https://cdn.pixabay.com/photo/2016/11/12/15/56/sport-1819099_1280.jpg",
+      "notes": {
+        "en": "Popular recreational and competitive sport.",
+        "et": "Populaarne vabaaja- ja võistlussport."
+      }
+    },
+    {
+      "id": 2,
+      "sport": "Rowing",
+      "estonian": "Sõudmine",
+      "image_url": "https://cdn.pixabay.com/photo/2015/06/08/15/11/rowing-802192_1280.jpg",
+      "notes": {
+        "en": "Well-established competitive sport with Olympic success.",
+        "et": "Tugevalt juurdunud võistlussport, millel on olümpiale suunatud edu."
+      }
+    },
+    {
+      "id": 3,
+      "sport": "Sailing",
+      "estonian": "Purjetamine",
+      "image_url": "https://cdn.pixabay.com/photo/2016/10/09/19/15/sailboat-1726480_1280.jpg",
+      "notes": {
+        "en": "Coastal sailing and major regattas like the Moonsund Regatta.",
+        "et": "Rannikul purjetamine ning suured regatid nagu Väinamere regatt."
+      }
+    },
+    {
+      "id": 4,
+      "sport": "Canoeing / Kayaking",
+      "estonian": "Kanuu- ja kajakisõit",
+      "image_url": "https://cdn.pixabay.com/photo/2016/03/27/21/34/kayak-1281821_1280.jpg",
+      "notes": {
+        "en": "Popular on rivers and lakes; governed by Estonian Canoeing Federation.",
+        "et": "Populaarne jõgedel ja järvedel; korraldab Eesti Kanuu- ja Kajakisõidu Liit."
+      }
+    },
+    {
+      "id": 5,
+      "sport": "Underwater sports (diving, underwater hunting)",
+      "estonian": "Allveespordialad (sukeldumine, veealune jahindus)",
+      "image_url": "https://cdn.pixabay.com/photo/2020/07/22/06/38/scuba-diver-5432912_1280.jpg",
+      "notes": {
+        "en": "Supported by Estonian Underwater Federation.",
+        "et": "Toetatud Eesti Allveeliidu poolt."
+      }
+    },
+    {
+      "id": 6,
+      "sport": "Wakeboarding",
+      "estonian": "Veelauasõit",
+      "image_url": "https://cdn.pixabay.com/photo/2017/08/05/00/05/wakeboarding-2580087_1280.jpg",
+      "notes": {
+        "en": "Offered at wakeparks across Estonia.",
+        "et": "Pakutakse eri wakeparkides üle Eesti."
+      }
+    },
+    {
+      "id": 7,
+      "sport": "Waterskiing",
+      "estonian": "Veesuusatamine",
+      "image_url": "https://cdn.pixabay.com/photo/2015/09/05/21/51/waterskiing-925383_1280.jpg",
+      "notes": {
+        "en": "Often available at the same venues as wakeboarding.",
+        "et": "Tihti saadaval samades kohtades, kus veelauasõit."
+      }
+    },
+    {
+      "id": 8,
+      "sport": "Surfing",
+      "estonian": "Surfamine",
+      "image_url": "https://cdn.pixabay.com/photo/2015/05/15/14/02/surfer-768715_1280.jpg",
+      "notes": {
+        "en": "Possible near spots like Kõpu Peninsula and Vääna-Jõesuu.",
+        "et": "Võimalik näiteks Kõpu poolsaarel ja Vääna-Jõesuus."
+      }
+    },
+    {
+      "id": 9,
+      "sport": "Winter swimming",
+      "estonian": "Talvised sulistamised",
+      "image_url": "https://cdn.pixabay.com/photo/2017/01/31/14/30/ice-swimming-2028079_1280.jpg",
+      "notes": {
+        "en": "Icy dips practiced seasonally, linked with sauna tradition.",
+        "et": "Talvine jäine ujumine, sageli saunakombel."
+      }
+    }
+  ]
+}
