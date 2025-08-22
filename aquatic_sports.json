@@ -14,7 +14,7 @@
       "id": 2,
       "sport": "Rowing",
       "estonian": "Sõudmine",
-      "image_url": "https://media.istockphoto.com/id/465383082/photo/female-swimmer-at-the-swimming-pool.jpg?s=1024x1024&w=is&k=20&c=xVP9ZlVFLgxxHQTE8ND3KtM8nIj8IzO9U7P19YEOFsk=",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FqmI1IgXTLWx0bIMTiajvr0AeBNcHuBycw&s",
       "notes": {
         "en": "Well-established competitive sport with Olympic success.",
         "et": "Tugevalt juurdunud võistlussport, millel on olümpiale suunatud edu."
@@ -24,7 +24,7 @@
       "id": 3,
       "sport": "Sailing",
       "estonian": "Purjetamine",
-      "image_url": "https://cdn.pixabay.com/photo/2016/10/09/19/15/sailboat-1726480_1280.jpg",
+      "image_url": "https://media.istockphoto.com/id/1412049078/photo/regatta-sailing-ship-yachts-with-white-sails-at-opened-sea-aerial-view-of-sailboat-in-windy.jpg?s=612x612&w=0&k=20&c=hgK_epxTRKyHDdXQ7UB0SI7ZXHN4ufkGaSk9NdtDePY=",
       "notes": {
         "en": "Coastal sailing and major regattas like the Moonsund Regatta.",
         "et": "Rannikul purjetamine ning suured regatid nagu Väinamere regatt."
@@ -32,9 +32,9 @@
     },
     {
       "id": 4,
-      "sport": "Canoeing / Kayaking",
-      "estonian": "Kanuu- ja kajakisõit",
-      "image_url": "https://cdn.pixabay.com/photo/2016/03/27/21/34/kayak-1281821_1280.jpg",
+      "sport": "Canoeing",
+      "estonian": "Kanuu",
+      "image_url": "https://media.istockphoto.com/id/516449022/photo/lady-with-kayak.jpg?s=612x612&w=0&k=20&c=Yp-rzpmY_hbhpbTE38z6toouRKW-lAEN-ZvuWvH8kKE=",
       "notes": {
         "en": "Popular on rivers and lakes; governed by Estonian Canoeing Federation.",
         "et": "Populaarne jõgedel ja järvedel; korraldab Eesti Kanuu- ja Kajakisõidu Liit."
@@ -42,9 +42,9 @@
     },
     {
       "id": 5,
-      "sport": "Underwater sports (diving, underwater hunting)",
-      "estonian": "Allveespordialad (sukeldumine, veealune jahindus)",
-      "image_url": "https://cdn.pixabay.com/photo/2020/07/22/06/38/scuba-diver-5432912_1280.jpg",
+      "sport": "Underwater sports",
+      "estonian": "Allveespordialad",
+      "image_url": "https://media.istockphoto.com/id/92265532/photo/divers-return.jpg?s=612x612&w=0&k=20&c=DjgXV0AhVjM7_Ws1BNq0l4t4DzXJBRjiB5_a2sjCbhE=",
       "notes": {
         "en": "Supported by Estonian Underwater Federation.",
         "et": "Toetatud Eesti Allveeliidu poolt."
@@ -54,7 +54,7 @@
       "id": 6,
       "sport": "Wakeboarding",
       "estonian": "Veelauasõit",
-      "image_url": "https://cdn.pixabay.com/photo/2017/08/05/00/05/wakeboarding-2580087_1280.jpg",
+      "image_url": "https://media.istockphoto.com/id/483372209/photo/wakeboarding.jpg?s=612x612&w=0&k=20&c=tuDtyTBOTXqygy3jGDDzG5W5gJtS9sXW-RDpaPlne20=",
       "notes": {
         "en": "Offered at wakeparks across Estonia.",
         "et": "Pakutakse eri wakeparkides üle Eesti."
@@ -64,7 +64,7 @@
       "id": 7,
       "sport": "Waterskiing",
       "estonian": "Veesuusatamine",
-      "image_url": "https://cdn.pixabay.com/photo/2015/09/05/21/51/waterskiing-925383_1280.jpg",
+      "image_url": "https://media.istockphoto.com/id/1296520060/photo/young-woman-water-skiing-on-a-sea.jpg?s=612x612&w=0&k=20&c=8R63d0tBpqSNBM3RFkbOHkOLUA8s_2LnI1CJCCmJ8Mg=",
       "notes": {
         "en": "Often available at the same venues as wakeboarding.",
         "et": "Tihti saadaval samades kohtades, kus veelauasõit."
@@ -74,7 +74,7 @@
       "id": 8,
       "sport": "Surfing",
       "estonian": "Surfamine",
-      "image_url": "https://cdn.pixabay.com/photo/2015/05/15/14/02/surfer-768715_1280.jpg",
+      "image_url": "https://media.istockphoto.com/id/143918363/photo/standing-tall.jpg?s=612x612&w=0&k=20&c=CmYEL5PCpEPRU8w1G3ppYPgBP9sUqApsC7Jtdenj3ek=",
       "notes": {
         "en": "Possible near spots like Kõpu Peninsula and Vääna-Jõesuu.",
         "et": "Võimalik näiteks Kõpu poolsaarel ja Vääna-Jõesuus."
@@ -84,7 +84,7 @@
       "id": 9,
       "sport": "Winter swimming",
       "estonian": "Talvised sulistamised",
-      "image_url": "https://cdn.pixabay.com/photo/2017/01/31/14/30/ice-swimming-2028079_1280.jpg",
+      "image_url": "https://media.istockphoto.com/id/1300846020/photo/front-view-of-active-senior-woman-in-swimsuit-outdoors-in-water-in-winter-cold-therapy-concept.jpg?s=612x612&w=0&k=20&c=S-qq9UNhpYF2vTSyqfgIaQvO5D4L8iU8G9kj2Y3HhSY=",
       "notes": {
         "en": "Icy dips practiced seasonally, linked with sauna tradition.",
         "et": "Talvine jäine ujumine, sageli saunakombel."
